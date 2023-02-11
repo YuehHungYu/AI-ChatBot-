@@ -1,0 +1,15 @@
+Channel access token 和 Channel secret 都是串接 LINE Channel 必須的金鑰
+
+1.Channel secret :2c70b7d37347804b9d7806ae44040598
+2.Channel access token : TeQd4PjfhKAOszYj30cvcBWwGlEcngP1cZh3y3uFAt8lOuqBwUhX39hNpP5J7PMbxYvqG9QEQg4UtUHvlUHTyZvtP1nC2xuSrDqn1/OT5OmJDoPgRpOkZcbF2dh5q1MtoMu63Sa9Oqvhzj4jLLXaCwdB04t89/1O/w1cDnyilFU=
+3.user ID: U9c2394cb40e9cc5c619de3b1eddcee96
+4 menu ID: richmenu-e0b2ba98f22094cf2a5cdeb96b0fa3ea
+
+
+
+
+做一個Server就只有三個步驟:
+
+1. Import and Setting
+2. Add View
+3. run server

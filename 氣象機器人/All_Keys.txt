@@ -1,0 +1,8 @@
+Channel access token (long-lived) :
+
++JAdt9yX+wmgrfIzy56ZWeB1x6k+qcD8NRnRVSvjQ8r92biHmdSNX+dsBL6K2Y3vU+yXeHjDwwRSfFF+JhsKJ42L6gN+XIUQJv+TI/
+E8/tO1ny4mKXpM7SI8BVx/fsFcrdrsaNBlV8Sq0DljuMwHlQdB04t89/1O/w1cDnyilFU=
+
+Channel secret :
+
+cf112f08117acf6fdea82505d75e567c
